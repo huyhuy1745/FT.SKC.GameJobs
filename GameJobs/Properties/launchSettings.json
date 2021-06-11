@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "FT.NH88.GameJobs": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Prod"
+      }
+    }
+  }
+}
